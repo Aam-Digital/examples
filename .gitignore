@@ -1,0 +1,11 @@
+# Django #
+__pycache__
+
+# JetBarins #
+.idea/
+
+# Environments 
+.venv
+
+# Visual Studio Code #
+.vscode/*

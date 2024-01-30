@@ -1,0 +1,3 @@
+auth-code-flow==0.2.1
+Django==5.0.1
+python-dotenv==1.0.1
